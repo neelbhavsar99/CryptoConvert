@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">CryptoConvert</string>
+    <string name="textview">TextView</string>
+
+    <string-array name="currencyoptions">
+        <item>CAD</item>
+        <item>USD</item>
+        <item>EUR</item>
+    </string-array>
+
+    <string-array name="crptooptions">
+        <item>BTC</item>
+        <item>ETH</item>
+        <item>LTC</item>
+    </string-array>
+
+
+</resources>
